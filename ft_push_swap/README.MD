@@ -40,6 +40,7 @@ The `push_swap` project involves sorting data on a stack with a limited set of i
 Below are visualized examples of the `push_swap` program in action:
 
 ![Visualized Example 1](visualizer.gif)
+
 ![Visualized Example 2](visualizer1.gif)
 
 ## Usage
