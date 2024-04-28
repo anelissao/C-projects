@@ -1,5 +1,7 @@
 # SoLong
 
+![Screenshot](Screen_Shot_2024-04-28_at_10.52.36_PM.webp)
+
 ## Summary
 
 The `SoLong` project is a small 2D game designed to improve your skills in working with textures, sprites, and basic gameplay elements using the miniLibX library in C. The game involves navigating a map, collecting items, and reaching the exit while avoiding obstacles.
