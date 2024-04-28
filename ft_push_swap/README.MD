@@ -41,7 +41,7 @@ Below are visualized examples of the `push_swap` program in action:
 
 ![Visualized Example 1](visualizer.gif)
 
-![Visualized Example 2](visualizer1.gif)
+![Visualized Example 2](visualizer2.gif)
 
 ## Usage
 
